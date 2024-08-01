@@ -1,0 +1,17 @@
+.listt{
+    list-style-type: none;
+    color: antiquewhite;
+}
+.pos{
+   position: relative;
+   top:80px;
+   left: 60px;
+background-color:blanchedalmond;
+}
+.pos1{
+    
+    position: relative;
+    top:80px;
+    left:70px
+ 
+ }
